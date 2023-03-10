@@ -744,12 +744,12 @@ button {
 }
 
 .table-contents h1 {
-    font-size: 1.8vw;
+    font-size: 2vw;
     color: #FF1493;
     margin-bottom: 1vw;
 }
 
-.table-contents h2 {
+.table-contents a {
     font-size: 1vw;
     padding-bottom: 0.5vw;
     color: white;
@@ -767,10 +767,16 @@ button {
     font-family: 'Coda', cursive;
     color: #FF1493;
     margin-bottom: 2vw;
+    font-size: 2vw;
 }
 
 .content-page p {
     margin-bottom: 2vw;
+    font-size: 1.5vw;
+}
+
+.assignment h4 {
+    font-size: 1.6vw;
 }
 
 .research-btn {
