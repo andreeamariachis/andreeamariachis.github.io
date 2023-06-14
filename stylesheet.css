@@ -772,7 +772,7 @@ button {
 
 .content-page p {
     margin-bottom: 2vw;
-    font-size: 1.5vw;
+    font-size: 1.3vw;
 }
 
 .assignment h4 {
@@ -800,7 +800,7 @@ button {
 a:link {
     color: #41EAD4;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:visited {
@@ -819,4 +819,34 @@ a:hover {
     width: 4vw;
     cursor: pointer;
     margin-bottom: 3vw;
+}
+
+.icon-method {
+    width: 5vw;
+    ;
+}
+
+.sdg-pic {
+    width: 30vw;
+    padding-bottom: 2.5vw;
+}
+
+.meetTeam {
+    width: 60vw;
+}
+
+.rulesPic {
+    width: 30vw;
+}
+
+.designThinking {
+    width: 60vw;
+}
+
+.cruyff {
+    width: 60vw;
+}
+
+.conceptfinal {
+    width: 100vw;
 }
